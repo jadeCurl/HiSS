@@ -14,8 +14,10 @@ This repository uses data from the [RawFC](https://github.com/Nicozwy/CofCED/tre
 
 ## Setup
 
-First, obtain an OpenAI API key and save it to the environment variable `OPENAI_API_KEY`.
+1. Obtain an OpenAI API key and save it to the environment variable `OPENAI_API_KEY`.
 
+2. Obtain a [SerpApi](https://serpapi.com/) key and save it to the environment variable `SERPAPI_KEY`.
+   
 ## Citation
 
 TBD
