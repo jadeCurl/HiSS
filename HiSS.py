@@ -24,7 +24,7 @@ Tell me if you are confident to answer the question or not. Answer me ‘yes’ 
 Answer: Yes.
 To verify subclaim 2, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she raise each question and look for an answer:
 Question: Are there any official records or documentation confirming Emerson Moser's length of employment at Crayola?
-Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: Yes.
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: Emerson Moser, who is retiring next week after 35 years, isn't colorblind in the sense that he can't see color at all. It's just that some ...
 To verify subclaim 3, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she raise each question and look for an answer:
 Question: Are there credible sources or publications that mention Emerson Moser as Crayola's top crayon molder?
@@ -43,12 +43,16 @@ Claim: "Bernie Sanders said 85 million Americans have no health insurance."
 A fact checker will not split the claim since the original claim is easier to verify.
 To verify the claim, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she raise each question and look for an answer:
 Question: How many Americans did Bernie Sanders claim had no health insurance?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: Yes.
 Answer: "We have 85 million Americans who have no health insurance," Sanders said Dec. 11 on CNN's State of the Union.
 Question: How did Bernie Sanders define "no health insurance"?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: Sanders spokesperson Mike Casca said the senator was referring to the number of uninsured and under-insured Americans and cited a report about those numbers for adults.
 Question: How many Americans were uninsured or under-insured according to the Commonwealth Fund survey?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: The Commonwealth Fund survey found that 43% of working-age adults 19 to 64, or about 85 million Americans, were uninsured or inadequately insured.
 Question: Is the statement "we have 85 million Americans who have no health insurance" partially accurate according to the information in the passage?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: Bernie Sanders omitted that his figure included people who either have no health insurance or are under-insured.
 Based on the answers to these questions, it is clear that among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim is classified as half-true.
 
@@ -58,11 +62,14 @@ A fact checker will decompose the claim into 2 subclaims that are easier to veri
 2. The specific charges or allegations made against Nancy Pelosi are treason and seditious conspiracy.
 To verify subclaim 1, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she raise each question and look for an answer:
 Question: Is it true that JAG has made a claim or accusation against Nancy Pelosi?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: Yes.
 Answer: There is no evidence to support this claim and a spokesperson for the U.S. Navy Judge Advocate General's Corps has stated that it is not true.
 To verify subclaim 2, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she raise each question and look for an answer:
 Question: Is it true that the specific charges or allegations made against Nancy Pelosi are treason and seditious conspiracy?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: There is no evidence to support this claim.
 Question: Where is the source of the claim?
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: Real Raw News, a disclaimer stating that it contains "humor, parody and satire" and has a history of publishing fictitious stories.
 Based on the answers to these questions, it is clear that among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim is classified as pants-fire.
 
@@ -72,17 +79,14 @@ A fact checker will decompose the claim into 2 subclaims that are easier to veri
 2.Cheri Beasley supports tax increases for families with an income under $75,000.
 To verify subclaim 1, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she might raise each question and look for an answer:
 Question: Does Cheri Beasley support tax increases?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no":
-Yes.
+Tell me if you are confident to answer the question or not. Answer with "yes" or "no": Yes.
 Answer: Beasley supports student loan bailouts for the wealthy.
 To verify subclaim 2, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she might raise each question and look for an answer:
 Question: Does the ad accurately link Beasley's position on student loan debt forgiveness with her stance on tax hikes for families making under $75,000 per year?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no":
-No.
+Tell me if you are confident to answer the question or not. Answer with "yes" or "no": No.
 Answer: The ad makes a misleading connection between the two issues and does not accurately represent Beasley's position on tax hikes for families making under $75,000 per year.
 Question: Has Cheri Beasley ever advocated for tax hikes specifically on families making under $75,000?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no":
-No.
+Tell me if you are confident to answer the question or not. Answer with "yes" or "no": No.
 Answer: No evidence found that Cheri Beasley has explicitly advocated for such a tax hike.
 Based on the answers to these questions, it is clear that among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim can be classified as barely-true.
 
