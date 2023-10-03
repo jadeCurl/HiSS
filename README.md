@@ -1,6 +1,6 @@
 # HiSS: Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method (AACL 2023)
 
-Official implementation of paper "Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method".
+Official implementation of paper "[Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method](https://arxiv.org/abs/2310.00305)".
 
 ## Introduction
 
