@@ -20,4 +20,14 @@ This repository uses data from the [RawFC](https://github.com/Nicozwy/CofCED/tre
    
 ## Citation
 
-TBD
+If you find HiSS helpful or intriguing and decide to use it, kindly acknowledge the paper by citing it and consider starring this repo, thanks!
+
+```bibtex
+@misc{zhang2023llmbased,
+      title={Towards LLM-based Fact Verification on News Claims with a Hierarchical Step-by-Step Prompting Method}, 
+      author={Xuan Zhang and Wei Gao},
+      year={2023},
+      eprint={2310.00305},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
