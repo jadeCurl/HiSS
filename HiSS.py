@@ -94,7 +94,7 @@ Based on the answers to these questions, it is clear that among pants-fire, fals
 Claim: ''', '''A fact checker will''',
  ]
 
-def promptf(question, prompt, intermediate = "Answer:", followup = "Intermediate Question", finalans= '\nBased on the answers to these questions, it is clear that among among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim '):
+def promptf(question, prompt, intermediate = "\nAnswer:", followup = "Intermediate Question", finalans= '\nBased on the answers to these questions, it is clear that among among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim '):
     cur_prompt = prompt[0] +  question + prompt[1]
 
     print(question, end ='')
@@ -106,7 +106,6 @@ def promptf(question, prompt, intermediate = "Answer:", followup = "Intermediate
       question = extract_question(ret_text)
       print('question')
       print(question)
-      cur_prompt += 'Answer'
       print('Answer:')
       external_answer = get_answer(question)
       print('external_answer')
