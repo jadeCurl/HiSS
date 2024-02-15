@@ -79,14 +79,14 @@ A fact checker will decompose the claim into 2 subclaims that are easier to veri
 2.Cheri Beasley supports tax increases for families with an income under $75,000.
 To verify subclaim 1, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she might raise each question and look for an answer:
 Question: Does Cheri Beasley support tax increases?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no": Yes.
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: Yes.
 Answer: Beasley supports student loan bailouts for the wealthy.
 To verify subclaim 2, a fact-checker will go through a step-by-step process to ask and answer a series of questions relevant to its factuality. Here are the specific steps he/she might raise each question and look for an answer:
 Question: Does the ad accurately link Beasley's position on student loan debt forgiveness with her stance on tax hikes for families making under $75,000 per year?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no": No.
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: The ad makes a misleading connection between the two issues and does not accurately represent Beasley's position on tax hikes for families making under $75,000 per year.
 Question: Has Cheri Beasley ever advocated for tax hikes specifically on families making under $75,000?
-Tell me if you are confident to answer the question or not. Answer with "yes" or "no": No.
+Tell me if you are confident to answer the question or not. Answer me ‘yes’ or ‘no’: No.
 Answer: No evidence found that Cheri Beasley has explicitly advocated for such a tax hike.
 Based on the answers to these questions, it is clear that among pants-fire, false, barely-true, half-true, mostly-true, and true, the claim can be classified as barely-true.
 
