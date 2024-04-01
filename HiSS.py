@@ -176,9 +176,7 @@ for json_str in json_list:
     question = claim 
     ans = promptf(question, prompt)
 
-    label_save.write(label+'\n')
-    pred_save.write(ans+'\n')
-    success_idx_save.write(str(idx)+'\n')
+
     print('\nresult')
     print(ans)
     print('label')
